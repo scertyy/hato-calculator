@@ -329,6 +329,8 @@ const result = computed(() => {
 <style lang="sass">
 @import 'assets/reset.sass'
 
+body
+  padding: 20px 0 40px
 .main
   display: grid
   grid-gap: 15px
